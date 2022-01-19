@@ -1,0 +1,117 @@
+body {
+  text-align: center;
+  background-color: #FFFDDE;
+}
+h1 {
+  margin: 0 auto 0 auto;
+  text-align: center;
+margin-top: 100px;
+font-family: 'Neonderthaw', cursive;
+font-size: 5rem;
+color: #66BFBF;
+}
+.top-container{
+background-color: #FFFDDE;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 250px;
+  top: 75px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 150px;
+  top: 300px;
+  margin: 100px;
+}
+.mountain{
+  position: absolute;
+  right: 100px;
+}
+h2{
+font-family: 'Island Moments', cursive;
+font-size: 2.5rem;
+color: #66BFBF ;
+font-weight: normal;
+}
+h3{
+font-family: 'Island Moments', cursive;
+color: #66BFBF;
+
+}
+p {
+font-family: 'Island Moments', cursive;
+line-height: 2;
+color: #DACC96;
+}
+.skill-row{
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+
+}
+.chillies{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+.ninja{
+  float: right;
+  padding-right: 400px;
+  width: 15%;;
+}
+.skill-row1{
+  margin: 100px auto 100px 350px;
+  text-align: left;
+}
+hr {
+  border-style: none;
+  border-color: grey;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+font-family: 'Island Moments', cursive;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+position: absolute;
+top: 1800px;
+left: 575px;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.bottom-container{
+  background-color: #FFFDDE;
+}
+a {
+  text-decoration: none;
+  color: #632626;
+}
+a:hover{
+color: #FFA1C9;
+}
+.sign{
+  color: #632626;
+}
